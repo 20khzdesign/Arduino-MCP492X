@@ -22,7 +22,6 @@
  * your arduino board.
  */
 
-#include <SPI.h>
 #include "MCP492X.h"
 
 MCP492X::MCP492X(uint8_t pinChipSelect) {
